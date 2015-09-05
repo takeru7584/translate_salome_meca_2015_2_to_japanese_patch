@@ -1,0 +1,1 @@
+# translate_salome_meca_2015_2_to_japanese_patch
